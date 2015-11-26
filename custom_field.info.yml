@@ -1,0 +1,5 @@
+name: Custom Field
+type: module
+description: 'Custom field, field widget and field formatter.'
+package: Custom
+core: '8.x'
